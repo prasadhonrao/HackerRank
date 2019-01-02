@@ -10,7 +10,7 @@ def simpleArraySum(ar):
     return sum(ar)
 
 if __name__ == '__main__':
-    # fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     ar_count = int(input())
 
@@ -20,6 +20,6 @@ if __name__ == '__main__':
 
     print(result)
 
-    # fptr.write(str(result) + '\n')
+    fptr.write(str(result) + '\n')
 
-    # fptr.close()
+    fptr.close()
