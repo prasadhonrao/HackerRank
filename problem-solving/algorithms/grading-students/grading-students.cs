@@ -1,3 +1,6 @@
+/*
+Note: This maynot be the best solution. Refer to Python version for more compact and efficient solution
+ */
 using System;
 using System.Collections.Generic;
 using System.IO;
