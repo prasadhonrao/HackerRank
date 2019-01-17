@@ -26,3 +26,4 @@ If you find it useful, please press a star and share it with your friends.
     - Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/python-if-else/python-if-else.py)
     - Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/arithmetic-operators/arithmetic-operators.py)
     - Python: Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/python-division/python-division.py)
+    - Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/loops/loops.py)
