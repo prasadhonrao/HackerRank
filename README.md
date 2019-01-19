@@ -28,3 +28,4 @@ If you find it useful, please press a star and share it with your friends.
     - Python: Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/python-division/python-division.py)
     - Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/loops/loops.py)
     - Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/write-a-function/write-a-function.py)
+    - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/print-function/print-function.py)
