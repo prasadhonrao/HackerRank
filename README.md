@@ -29,3 +29,6 @@ If you find it useful, please press a star and share it with your friends.
     - Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/loops/loops.py)
     - Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/write-a-function/write-a-function.py)
     - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/print-function/print-function.py)
+  - Basic Data Types
+    - List Comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/list-comprehensions/list-comprehensions.py)
+    - Find the Runner-Up Score! | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/find-the-runner-up-score/find-the-runner-up-score.py)
