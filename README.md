@@ -33,3 +33,4 @@ If you find it useful, please press a star and share it with your friends.
   - Basic Data Types
     - List Comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/list-comprehensions/list-comprehensions.py)
     - Find the Runner-Up Score! | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/find-the-runner-up-score/find-the-runner-up-score.py)
+    - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/tuples/tuples.py)
