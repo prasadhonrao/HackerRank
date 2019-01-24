@@ -20,6 +20,7 @@ If you find it useful, please press a star and share it with your friends.
     - Designer PDF Viewer | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [C#](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/designer-pdf-viewer/designer-pdf-viewer.cs) |
     - Utopian Tree | [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem) | [C#](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/utopian-tree/utopian-tree.cs) |
     - Extra Long Factorials | [Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [C#](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/extra-long-factorials/extra-long-factorials.cs) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/extra-long-factorials/extra-long-factorials.py)
+    - Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits/problem) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/find-digits/find-digits.py)
   - Data Structures
     - Array - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [C#](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/data-structures/array-ds/array-ds.cs) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/data-structures/array-ds/array-ds.py)
 - Python
