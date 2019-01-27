@@ -44,3 +44,5 @@ If you find it useful, please press a star and share it with your friends.
     - Find the Runner-Up Score! | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/find-the-runner-up-score/find-the-runner-up-score.py)
     - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/tuples/tuples.py)
     - Finding the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/finding-the-percentage/finding-the-percentage.py)
+  - Math
+    - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/integers-come-in-all-sizes/integers-come-in-all-sizes.py)
