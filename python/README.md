@@ -19,3 +19,4 @@
 - Sets
   - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/introduction-to-sets/introduction-to-sets.py)
   - Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/symmetric-difference/symmetric-difference.py)
+  - Set.add() | [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/set-add/set-add.py)
