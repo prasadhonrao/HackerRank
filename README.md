@@ -25,6 +25,7 @@ If you find it useful, please press a star and share it with your friends.
       - Extra Long Factorials | [Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [C#](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/implementation/extra-long-factorials/extra-log-factorials.cs) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/implementation/extra-long-factorials/extra-long-factorials.py)
       - Find Digits | [Problem](https://www.hackerrank.com/challenges/find-digits/problem) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/implementation/find-digits/find-digits.py)
     - Strings
+      - CamelCase | [Problem](https://www.hackerrank.com/challenges/camelcase/problem) | [C#](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/problem-solving/algorithms/strings/camelcase/camelcase.cs) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/strings/camelcase/camelcase.py)
       - Alternating Characters | [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/strings/alternating-characters/alternating-characters.py)
   - Data Structures
     - Arrays
