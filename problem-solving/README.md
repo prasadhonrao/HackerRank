@@ -20,6 +20,7 @@
   - Strings
     - CamelCase | [Problem](https://www.hackerrank.com/challenges/camelcase/problem) | [C#](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/problem-solving/algorithms/strings/camelcase/camelcase.cs) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/strings/camelcase/camelcase.py)
     - HackerRank in a String! | [Problem](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/strings/hackerrank-in-a-string/hackerrank-in-a-string.py)
+    - Pangrams | [Problem](https://www.hackerrank.com/challenges/pangrams/problem) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/strings/pangrams/pangrams.py)
     - Alternating Characters | [Problem](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/algorithms/strings/alternating-characters/alternating-characters.py)
 - Data Structures
   - Arrays
