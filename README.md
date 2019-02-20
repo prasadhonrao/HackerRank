@@ -54,6 +54,7 @@ If you find it useful, please press a star and share it with your friends.
     - Power - Mod Power | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/power-mod-power/power-mod-power.py)
     - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/integers-come-in-all-sizes/integers-come-in-all-sizes.py)
   - Itertools
+    - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/submissions/code/49172373) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-product/itertools-product.py)
     - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-permutations/itertools-permutations.py)
   - Sets
     - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/introduction-to-sets/introduction-to-sets.py)
