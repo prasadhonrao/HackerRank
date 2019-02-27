@@ -30,3 +30,4 @@
   - Shape and Reshape | [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/shape-and-reshape/shape-and-reshape.py)
   - Transpose and Flatten | [Problem](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/transpose-and-flatten/transpose-and-flatten.py)
   - Concatenate | [Problem](https://www.hackerrank.com/challenges/np-concatenate/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/concatenate/concatenate.py))
+  - Zeros and Ones | [Problem](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/zeros-and-ones/zeros-and-ones.py))
