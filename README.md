@@ -62,3 +62,11 @@ If you find it useful, please press a star and share it with your friends.
     - Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/symmetric-difference/symmetric-difference.py)
     - Set.add() | [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/set-add/set-add.py)
     - Set .discard(), .remove() & .pop() | [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/set-discard-remove-pop/set-discard-remove-pop.py)
+  - Numpy
+    - Arrays | [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/arrays/arrays.py)
+    - Shape and Reshape | [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/shape-and-reshape/shape-and-reshape.py)
+    - Transpose and Flatten | [Problem](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/transpose-and-flatten/transpose-and-flatten.py)
+    - Concatenate | [Problem](https://www.hackerrank.com/challenges/np-concatenate/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/concatenate/concatenate.py))
+    - Zeros and Ones | [Problem](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/zeros-and-ones/zeros-and-ones.py))
+    - Eye and Identity | [Problem](https://www.hackerrank.com/challenges/np-eye-and-identity/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/eye-and-identity/eye-and-identity.py))
+    - Array Mathematics | [Problem](https://www.hackerrank.com/challenges/np-array-mathematics/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/array-mathematics/array-mathematics.py))
