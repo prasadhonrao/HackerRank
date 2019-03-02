@@ -33,3 +33,4 @@
   - Zeros and Ones | [Problem](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/zeros-and-ones/zeros-and-ones.py))
   - Eye and Identity | [Problem](https://www.hackerrank.com/challenges/np-eye-and-identity/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/eye-and-identity/eye-and-identity.py))
   - Array Mathematics | [Problem](https://www.hackerrank.com/challenges/np-array-mathematics/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/array-mathematics/array-mathematics.py))
+  - Floor, Ceil and Rint | [Problem](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/floor-ceil-and-rint/floor-ceil-and-rint.py))
