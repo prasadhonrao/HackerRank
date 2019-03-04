@@ -72,3 +72,4 @@ If you find it useful, please press a star and share it with your friends.
     - Array Mathematics | [Problem](https://www.hackerrank.com/challenges/np-array-mathematics/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/array-mathematics/array-mathematics.py))
     - Floor, Ceil and Rint | [Problem](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/floor-ceil-and-rint/floor-ceil-and-rint.py))
     - Sum and Prod | [Problem](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/sum-and-prod/sum-and-prod.py))
+    - Min and Max | [Problem](https://www.hackerrank.com/challenges/np-min-and-max/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/min-and-max/min-and-max.py))
