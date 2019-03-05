@@ -74,3 +74,4 @@ If you find it useful, please press a star and share it with your friends.
     - Sum and Prod | [Problem](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/sum-and-prod/sum-and-prod.py))
     - Min and Max | [Problem](https://www.hackerrank.com/challenges/np-min-and-max/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/min-and-max/min-and-max.py))
     - Mean, Var, and Std | [Problem](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/mean-var-and-std/mean-var-and-std.py))
+    - Dot and Cross | [Problem](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/dot-and-cross/dot-and-cross.py))
