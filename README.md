@@ -75,3 +75,4 @@ If you find it useful, please press a star and share it with your friends.
     - Min and Max | [Problem](https://www.hackerrank.com/challenges/np-min-and-max/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/min-and-max/min-and-max.py))
     - Mean, Var, and Std | [Problem](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/mean-var-and-std/mean-var-and-std.py))
     - Dot and Cross | [Problem](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/dot-and-cross/dot-and-cross.py))
+    - Inner and Outer | [Problem](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/inner-and-outer/inner-and-outer.py))
