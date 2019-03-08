@@ -40,3 +40,4 @@
   - Dot and Cross | [Problem](https://www.hackerrank.com/challenges/np-dot-and-cross/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/dot-and-cross/dot-and-cross.py))
   - Inner and Outer | [Problem](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/inner-and-outer/inner-and-outer.py))
   - Polynomials | [Problem](https://www.hackerrank.com/challenges/np-polynomials/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/polynomials/polynomials.py))
+  - Linear Algebra | [Problem](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/linear-algebra/linear-algebra.py))
