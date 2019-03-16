@@ -59,6 +59,7 @@ If you find it useful, please press a star and share it with your friends.
     - collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/collections-counter/collections-counter.py)
     - DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/defaultdict-tutorial/defaultdict-tutorial.py)
     - Collections.namedtuple() | [Problem](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/collections-namedtuple/collections-namedtuple.py)
+    - Collections.OrderedDict() | [Problem](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/collections-ordereddict/collections-ordereddict.py)
   - Itertools
     - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/submissions/code/49172373) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-product/itertools-product.py)
     - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-permutations/itertools-permutations.py)
