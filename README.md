@@ -63,6 +63,7 @@ If you find it useful, please press a star and share it with your friends.
     - Word Order | [Problem](https://www.hackerrank.com/challenges/word-order/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/word-order/word-order.py)
     - Piling Up! | [Problem](https://www.hackerrank.com/challenges/piling-up/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/piling-up/piling-up.py)
     - Collections.deque() | [Problem](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/collections-deque/collections-deque.py)
+    - Company Logo | [Problem](https://www.hackerrank.com/challenges/most-commons/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/company-logo/company-logo.py)
   - Itertools
     - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/submissions/code/49172373) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-product/itertools-product.py)
     - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-permutations/itertools-permutations.py)
