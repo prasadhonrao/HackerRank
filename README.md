@@ -66,6 +66,7 @@ If you find it useful, please press a star and share it with your friends.
     - Company Logo | [Problem](https://www.hackerrank.com/challenges/most-commons/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/company-logo/company-logo.py)
   - Date and Time
     - Calendar Module | [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/date-and-time/calendar-module/calendar-module.py)
+    - Time Delta | [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/date-and-time/time-delta/time-delta.py)
   - Itertools
     - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/submissions/code/49172373) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-product/itertools-product.py)
     - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-permutations/itertools-permutations.py)
