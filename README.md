@@ -77,6 +77,7 @@ If you find it useful, please press a star and share it with your friends.
     - Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/symmetric-difference/symmetric-difference.py)
     - Set.add() | [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/set-add/set-add.py)
     - Set .discard(), .remove() & .pop() | [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/set-discard-remove-pop/set-discard-remove-pop.py)
+    - Set .union() Operation | [Problem](https://www.hackerrank.com/challenges/py-set-union/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/set-union-operation/set-union-operation.py)
   - Numpy
     - Arrays | [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/arrays/arrays.py)
     - Shape and Reshape | [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/shape-and-reshape/shape-and-reshape.py)
