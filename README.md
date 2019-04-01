@@ -84,6 +84,7 @@ If you find it useful, please press a star and share it with your friends.
     - Set Mutations | [Problem](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/set-mutations/set-mutations.py)
     - The Captain's Room | [Problem](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/the-captains-room/the-captains-room.py)
     - Check Subset | [Problem](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/check-subset/check-subset.py)
+    - Check Strict Superset | [Problem](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/check-strict-superset/check-strict-superset.py)
   - Numpy
     - Arrays | [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/arrays/arrays.py)
     - Shape and Reshape | [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/shape-and-reshape/shape-and-reshape.py)
