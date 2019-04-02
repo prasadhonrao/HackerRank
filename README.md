@@ -55,6 +55,7 @@ If you find it useful, please press a star and share it with your friends.
     - Mod Divmod | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/mod-divmod/mod-divmod.py)
     - Power - Mod Power | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/power-mod-power/power-mod-power.py)
     - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/integers-come-in-all-sizes/integers-come-in-all-sizes.py)
+    - Triangle Quest | [Problem](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/triangle-quest/triangle-quest.py)
   - Collections
     - collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/collections-counter/collections-counter.py)
     - DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/defaultdict-tutorial/defaultdict-tutorial.py)
