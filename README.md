@@ -105,6 +105,7 @@ If you find it useful, please press a star and share it with your friends.
     - Linear Algebra | [Problem](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/linear-algebra/linear-algebra.py))
   - Regex and Parsing
     - Re.start() & Re.end() | [Problem](https://www.hackerrank.com/challenges/re-start-re-end/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/re-start-re-end/re-start-re-end.py))
+    - Validating phone numbers | [Problem](https://www.hackerrank.com/challenges/validating-the-phone-number/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/validating-phone-numbers/validating-phone-numbers.py))
   - XML
     - XML 1 - Find the Score | [Problem](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/xml/xml-1-find-the-score/xml-1-find-the-score.py))
     - XML2 - Find the Maximum Depth | [Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/xml/xml2-find-the-maximum-depth/xml2-find-the-maximum-depth.py))
