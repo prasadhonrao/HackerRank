@@ -104,7 +104,8 @@ If you find it useful, please press a star and share it with your friends.
     - Polynomials | [Problem](https://www.hackerrank.com/challenges/np-polynomials/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/polynomials/polynomials.py))
     - Linear Algebra | [Problem](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/linear-algebra/linear-algebra.py))
   - Regex and Parsing
-    - Re.start() & Re.end() | [Problem](https://www.hackerrank.com/challenges/re-start-re-end/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/re-start-re-end/re-start-re-end.py))
+    - Detect Floating Point Number | [Problem](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/detect-floating-point-number/detect-floating-point-number.py))
+    - Re.start() & Re.end() | [Problem](https://www.hackerrank.com/challenges/re-start-re-end/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/re-start-re-end/re-start-re-end.p
     - Re.findall() & Re.finditer() | [Problem](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/re-findall-re-finditer/re-findall-re-finditer.py))
     - Validating phone numbers | [Problem](https://www.hackerrank.com/challenges/validating-the-phone-number/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/validating-phone-numbers/validating-phone-numbers.py))
   - XML
