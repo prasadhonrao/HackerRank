@@ -79,7 +79,9 @@ If you find it useful, please press a star and share it with your friends.
     - Exceptions | [Problem](https://www.hackerrank.com/challenges/exceptions/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/errors-and-exceptions/exceptions/exceptions.py) 
     - Incorrect Regex | [Problem](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/errors-and-exceptions/incorrect-regex/incorrect-regex.py) 
   - Classes
-      Class 2 - Find the Torsional Angle | [Problem](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/classes/class-2-find-the-torsional-angle/class-2-find-the-torsional-angle.py)
+    - Class 2 - Find the Torsional Angle | [Problem](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/classes/class-2-find-the-torsional-angle/class-2-find-the-torsional-angle.py)
+  - Built-Ins
+    - Zipped! | [Problem](https://www.hackerrank.com/challenges/zipped/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/zipped/zipped.py)
   - Sets
     - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/introduction-to-sets/introduction-to-sets.py)
     - Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/symmetric-difference/symmetric-difference.py)
