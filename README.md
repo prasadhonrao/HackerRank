@@ -82,6 +82,7 @@ If you find it useful, please press a star and share it with your friends.
     - Class 2 - Find the Torsional Angle | [Problem](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/classes/class-2-find-the-torsional-angle/class-2-find-the-torsional-angle.py)
   - Built-Ins
     - Zipped! | [Problem](https://www.hackerrank.com/challenges/zipped/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/zipped/zipped.py)
+    - Input | [Problem](https://www.hackerrank.com/challenges/input/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/input/input.py)
   - Sets
     - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/introduction-to-sets/introduction-to-sets.py)
     - Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/symmetric-difference/symmetric-difference.py)
