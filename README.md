@@ -86,7 +86,8 @@ If you find it useful, please press a star and share it with your friends.
     - Python Evaluation | [Problem](https://www.hackerrank.com/challenges/python-eval/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/python-evaluation/python-evaluation.py)
     - Athelete Sort | [Problem](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/athelete-sort/athelete-sort.py)
   - Python Functionals
-    - Map and Lambda Expression | [Problem](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/pythong-functionals/map-and-lambda-expression/map-and-lambda-expression.py)
+    - Map and Lambda Expression | [Problem](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/pythong-functionals/map-and-lambda-expression/map-and-lambda-expression.py)
+    - Validating Email Address With a Filter | [Problem](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/pythong-functionals/validating-email-address-with-a-filter/validating-email-address-with-a-filter.py)
   - Sets
     - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/introduction-to-sets/introduction-to-sets.py)
     - Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/symmetric-difference/symmetric-difference.py)
