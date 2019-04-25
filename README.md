@@ -137,3 +137,4 @@ If you find it useful, please press a star and share it with your friends.
       - Linear Algebra | [Problem](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/linear-algebra/linear-algebra.py)
    - Debugging
       - Words Score | [Problem](https://www.hackerrank.com/challenges/words-score/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/debugging/words-score/words-score.py)
+      - Default Arguments | [Problem](https://www.hackerrank.com/challenges/default-arguments/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/debugging/default-arguments/default-arguments.py)
