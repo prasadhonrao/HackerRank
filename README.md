@@ -119,7 +119,9 @@ If you find it useful, please press a star and share it with your friends.
   - XML
     - XML 1 - Find the Score | [Problem](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/xml/xml-1-find-the-score/xml-1-find-the-score.py)
     - XML2 - Find the Maximum Depth | [Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/xml/xml2-find-the-maximum-depth/xml2-find-the-maximum-depth.py)
-   - Numpy
+  - Closures and Decorators
+    - Standardize Mobile Number Using Decorators | [Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/closures-and-decorators/standardize-mobile-number-using-decorators/standardize-mobile-number-using-decorators.py)
+  - Numpy
       - Arrays | [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/arrays/arrays.py)
       - Shape and Reshape | [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/shape-and-reshape/shape-and-reshape.py)
       - Transpose and Flatten | [Problem](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/transpose-and-flatten/transpose-and-flatten.py)
@@ -135,6 +137,6 @@ If you find it useful, please press a star and share it with your friends.
       - Inner and Outer | [Problem](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/inner-and-outer/inner-and-outer.py)
       - Polynomials | [Problem](https://www.hackerrank.com/challenges/np-polynomials/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/polynomials/polynomials.py)
       - Linear Algebra | [Problem](https://www.hackerrank.com/challenges/np-linear-algebra/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/linear-algebra/linear-algebra.py)
-   - Debugging
+  - Debugging
       - Words Score | [Problem](https://www.hackerrank.com/challenges/words-score/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/debugging/words-score/words-score.py)
       - Default Arguments | [Problem](https://www.hackerrank.com/challenges/default-arguments/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/debugging/default-arguments/default-arguments.py)
