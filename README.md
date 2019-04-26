@@ -121,6 +121,7 @@ If you find it useful, please press a star and share it with your friends.
     - XML2 - Find the Maximum Depth | [Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/xml/xml2-find-the-maximum-depth/xml2-find-the-maximum-depth.py)
   - Closures and Decorators
     - Standardize Mobile Number Using Decorators | [Problem](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/closures-and-decorators/standardize-mobile-number-using-decorators/standardize-mobile-number-using-decorators.py)
+    - Decorators 2 - Name Directory | [Problem](https://www.hackerrank.com/challenges/decorators-2-name-directory/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/closures-and-decorators/decorators-2-name-directory/decorators-2-name-directory.py)
   - Numpy
       - Arrays | [Problem](https://www.hackerrank.com/challenges/np-arrays/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/arrays/arrays.py)
       - Shape and Reshape | [Problem](https://www.hackerrank.com/challenges/np-shape-reshape/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/numpy/shape-and-reshape/shape-and-reshape.py)
