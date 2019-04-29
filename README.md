@@ -50,6 +50,10 @@ If you find it useful, please press a star and share it with your friends.
     - Finding the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/finding-the-percentage/finding-the-percentage.py)
     - Lists | [Problem](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/lists/lists.py)
     - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/basic-data-types/tuples/tuples.py)
+  - Strings
+    - sWAP cASE | [Problem](https://www.hackerrank.com/challenges/swap-case/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/swap-case/swap-case.py)
+    - String Split and Join | [Problem](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/string-split-and-join/string-split-and-join.py)
+    - What's Your name | [Problem](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/whats-your-name/whats-your-name.py)
   - Math
     - Polar Coordinates | [Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/polar-coordinates/polar-coordinates.py)
     - Mod Divmod | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/mod-divmod/mod-divmod.py)
