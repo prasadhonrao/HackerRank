@@ -61,6 +61,7 @@ If you find it useful, please press a star and share it with your friends.
     - Text Wrap | [Problem](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/text-wrap/text-wrap.py)
     - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/designer-door-mat/designer-door-mat.py)
     - String Formatting | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/string-formatting/string-formatting.py)
+    - Alphabet Rangoli | [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/alphabet-rangoli/alphabet-rangoli.py)
   - Math
     - Polar Coordinates | [Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/polar-coordinates/polar-coordinates.py)
     - Mod Divmod | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/mod-divmod/mod-divmod.py)
