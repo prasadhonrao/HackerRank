@@ -59,6 +59,7 @@ If you find it useful, please press a star and share it with your friends.
     - String Validators | [Problem](https://www.hackerrank.com/challenges/string-validators/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/string-validators/string-validators.py)
     - Text Alignment | [Problem](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/text-alignment/text-alignment.py)
     - Text Wrap | [Problem](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/text-wrap/text-wrap.py)
+    - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/designer-door-mat/designer-door-mat.py)
   - Math
     - Polar Coordinates | [Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/polar-coordinates/polar-coordinates.py)
     - Mod Divmod | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/mod-divmod/mod-divmod.py)
