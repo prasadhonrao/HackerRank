@@ -84,6 +84,13 @@ If you find it useful, please press a star and share it with your friends.
     - Power - Mod Power | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/power-mod-power/power-mod-power.py)
     - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/integers-come-in-all-sizes/integers-come-in-all-sizes.py)
     - Triangle Quest | [Problem](https://www.hackerrank.com/challenges/python-quest-1/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/triangle-quest/triangle-quest.py)
+  - Itertools
+    - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/submissions/code/49172373) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-product/itertools-product.py)
+    - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-permutations/itertools-permutations.py)
+    - itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-combinations/itertools-combinations.py)
+    - itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-combinations-with-replacement/itertools-combinations-with-replacement.py)
+    - Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/compress-the-string/compress-the-string.py)
+    - Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/iterables-and-iterators/iterables-and-iterators.py)
   - Collections
     - collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/collections-counter/collections-counter.py)
     - DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/defaultdict-tutorial/defaultdict-tutorial.py)
@@ -96,13 +103,6 @@ If you find it useful, please press a star and share it with your friends.
   - Date and Time
     - Calendar Module | [Problem](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/date-and-time/calendar-module/calendar-module.py)
     - Time Delta | [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/date-and-time/time-delta/time-delta.py)
-  - Itertools
-    - itertools.product() | [Problem](https://www.hackerrank.com/challenges/itertools-product/submissions/code/49172373) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-product/itertools-product.py)
-    - itertools.permutations() | [Problem](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-permutations/itertools-permutations.py)
-    - itertools.combinations() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-combinations/itertools-combinations.py)
-    - itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-combinations-with-replacement/itertools-combinations-with-replacement.py)
-    - Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/compress-the-string/compress-the-string.py)
-    - Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/iterables-and-iterators/iterables-and-iterators.py)
   - Errors and Exceptions
     - Exceptions | [Problem](https://www.hackerrank.com/challenges/exceptions/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/errors-and-exceptions/exceptions/exceptions.py) 
     - Incorrect Regex | [Problem](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/errors-and-exceptions/incorrect-regex/incorrect-regex.py) 
