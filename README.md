@@ -78,6 +78,7 @@ If you find it useful, please press a star and share it with your friends.
     - Check Strict Superset | [Problem](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/check-strict-superset/check-strict-superset.py)
   - Math
     - Polar Coordinates | [Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/polar-coordinates/polar-coordinates.py)
+    - Find Angle MBC | [Problem](https://www.hackerrank.com/challenges/find-angle/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/find-angle-mbc/find-angle-mbc.py)
     - Mod Divmod | [Problem](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/mod-divmod/mod-divmod.py)
     - Power - Mod Power | [Problem](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/power-mod-power/power-mod-power.py)
     - Integers Come In All Sizes | [Problem](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/math/integers-come-in-all-sizes/integers-come-in-all-sizes.py)
