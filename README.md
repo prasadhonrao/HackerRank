@@ -108,6 +108,7 @@ If you find it useful, please press a star and share it with your friends.
     - Incorrect Regex | [Problem](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/errors-and-exceptions/incorrect-regex/incorrect-regex.py) 
   - Classes
     - Class 2 - Find the Torsional Angle | [Problem](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/classes/class-2-find-the-torsional-angle/class-2-find-the-torsional-angle.py)
+    - Classes: Dealing with Complex Numbers | [Problem](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/classes/classes-dealing-with-complex-numbers/classes-dealing-with-complex-numbers.py)
   - Built-Ins
     - Zipped! | [Problem](https://www.hackerrank.com/challenges/zipped/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/zipped/zipped.py)
     - Input | [Problem](https://www.hackerrank.com/challenges/input/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/input/input.py)
