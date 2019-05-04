@@ -115,6 +115,7 @@ If you find it useful, please press a star and share it with your friends.
     - Python Evaluation | [Problem](https://www.hackerrank.com/challenges/python-eval/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/python-evaluation/python-evaluation.py)
     - Athelete Sort | [Problem](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/athelete-sort/athelete-sort.py)
     - Any or All | [Problem](https://www.hackerrank.com/challenges/any-or-all/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/any-or-all/any-or-all.py)
+    - ginortS | [Problem]https://www.hackerrank.com/challenges/ginorts/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/built-ins/ginorts/ginorts.py)
   - Python Functionals
     - Map and Lambda Expression | [Problem](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/pythong-functionals/map-and-lambda-expression/map-and-lambda-expression.py)
     - Validating Email Address With a Filter | [Problem](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/pythong-functionals/validating-email-address-with-a-filter/validating-email-address-with-a-filter.py)
