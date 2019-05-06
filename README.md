@@ -136,6 +136,7 @@ If you find it useful, please press a star and share it with your friends.
     - Validating UID | [Problem](https://www.hackerrank.com/challenges/validating-uid/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/validating-uid/validating-uid.py)
     - Validating Credit Card Number | [Problem](https://www.hackerrank.com/challenges/validating-credit-card-number/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/validating-credit-card-number/validating-credit-card-number.py)
     - Validating Postal Codes | [Problem](https://www.hackerrank.com/challenges/validating-postalcode/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/validating-postalcode/validating-postalcode.py)
+    - Matrix Script | [Problem](https://www.hackerrank.com/challenges/matrix-script/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/regex-and-parsing/matrix-script/matrix-script.py)
   - XML
     - XML 1 - Find the Score | [Problem](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/xml/xml-1-find-the-score/xml-1-find-the-score.py)
     - XML2 - Find the Maximum Depth | [Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/xml/xml2-find-the-maximum-depth/xml2-find-the-maximum-depth.py)
