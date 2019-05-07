@@ -62,7 +62,8 @@ If you find it useful, please press a star and share it with your friends.
     - Designer Door Mat | [Problem](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/designer-door-mat/designer-door-mat.py)
     - String Formatting | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/string-formatting/string-formatting.py)
     - Alphabet Rangoli | [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/alphabet-rangoli/alphabet-rangoli.py)
-    - Capitalize | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/capitalize/capitalize.py)
+    - Capitalize | [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/merge-the-tools/merge-the-tools.py)
+    - Merge the Tools! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/capitalize/capitalize.py)
   - Sets
     - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/introduction-to-sets/introduction-to-sets.py)
     - Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/symmetric-difference/symmetric-difference.py)
