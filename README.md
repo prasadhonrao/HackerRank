@@ -66,6 +66,7 @@ If you find it useful, please press a star and share it with your friends.
     - Merge the Tools! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/capitalize/capitalize.py)
   - Sets
     - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/introduction-to-sets/introduction-to-sets.py)
+    - No Idea! | [Problem](https://www.hackerrank.com/challenges/no-idea/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/no-idea/no-idea.py)
     - Symmetric Difference | [Problem](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/symmetric-difference/symmetric-difference.py)
     - Set.add() | [Problem](https://www.hackerrank.com/challenges/py-set-add/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/set-add/set-add.py)
     - Set.discard(), .remove() & .pop() | [Problem](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/set-discard-remove-pop/set-discard-remove-pop.py)
