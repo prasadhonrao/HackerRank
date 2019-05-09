@@ -63,6 +63,7 @@ If you find it useful, please press a star and share it with your friends.
     - String Formatting | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/string-formatting/string-formatting.py)
     - Alphabet Rangoli | [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/alphabet-rangoli/alphabet-rangoli.py)
     - Capitalize | [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/merge-the-tools/merge-the-tools.py)
+    - The Minion Game | [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/the-minion-game/the-minion-game.py)
     - Merge the Tools! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/capitalize/capitalize.py)
   - Sets
     - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/introduction-to-sets/introduction-to-sets.py)
