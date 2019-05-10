@@ -94,6 +94,7 @@ If you find it useful, please press a star and share it with your friends.
     - itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-combinations-with-replacement/itertools-combinations-with-replacement.py)
     - Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/compress-the-string/compress-the-string.py)
     - Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/iterables-and-iterators/iterables-and-iterators.py)
+    - Maximize It! | [Problem](https://www.hackerrank.com/challenges/maximize-it/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/maximize-it/maximize-it.py)
   - Collections
     - collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/collections-counter/collections-counter.py)
     - DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/defaultdict-tutorial/defaultdict-tutorial.py)
