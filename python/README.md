@@ -1,4 +1,4 @@
-Python
+- Python
   - Introduction
     - Say 'Hello, World' With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/say-hello-world-with-python/say-hello-world-with-python.py)
     - Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/introduction/python-if-else/python-if-else.py)
@@ -27,6 +27,7 @@ Python
     - String Formatting | [Problem](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/string-formatting/string-formatting.py)
     - Alphabet Rangoli | [Problem](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/alphabet-rangoli/alphabet-rangoli.py)
     - Capitalize | [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/merge-the-tools/merge-the-tools.py)
+    - The Minion Game | [Problem](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/the-minion-game/the-minion-game.py)
     - Merge the Tools! | [Problem](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/strings/capitalize/capitalize.py)
   - Sets
     - Introduction to Sets | [Problem](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/sets/introduction-to-sets/introduction-to-sets.py)
@@ -57,6 +58,7 @@ Python
     - itertools.combinations_with_replacement() | [Problem](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/itertools-combinations-with-replacement/itertools-combinations-with-replacement.py)
     - Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/compress-the-string/compress-the-string.py)
     - Iterables and Iterators | [Problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/iterables-and-iterators/iterables-and-iterators.py)
+    - Maximize It! | [Problem](https://www.hackerrank.com/challenges/maximize-it/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/itertools/maximize-it/maximize-it.py)
   - Collections
     - collections.Counter() | [Problem](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/collections-counter/collections-counter.py)
     - DefaultDict Tutorial | [Problem](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/python/collections/defaultdict-tutorial/defaultdict-tutorial.py)
