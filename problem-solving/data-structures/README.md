@@ -1,6 +1,4 @@
-- Problem Solving
-  - Data Structures
-    - Arrays
-      - Array - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [C#](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/data-structures/arrays/array-ds/array-ds.cs) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/data-structures/arrays/array-ds/array-ds.py)
-    - Linked Lists
-      - Print in Reverse | [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/data-structures/linked-lists/print-in-reverse/print-in-reverse.py)
+- Arrays
+  - Array - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [C#](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/data-structures/arrays/array-ds/array-ds.cs) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/data-structures/arrays/array-ds/array-ds.py)
+- Linked Lists
+  - Print in Reverse | [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | [Python3](https://github.com/PrasadHonrao/HackerRank/blob/master/problem-solving/data-structures/linked-lists/print-in-reverse/print-in-reverse.py)
