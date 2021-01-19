@@ -4,7 +4,7 @@
   - Java If-Else | [Problem](https://www.hackerrank.com/challenges/java-if-else/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-if-else/java-if-else.java)
   - Java Stdin and Stdout II | [Problem](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-stdin-and-stdout-ii/java-stdin-and-stdout-ii.java)
   - Java Output Formatting | [Problem](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-output-formatting/java-output-formatting.java)
-  - Java Loops I | [Problem](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-loops-i/java-loops-i.java)
+  - Java Loops I | [Problem](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-loops-i/java-loop-i.java)
   - Java Loops II | [Problem](https://www.hackerrank.com/challenges/java-loops-ii/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-loops-ii/java-loops-ii.java)
   - Java Datatypes | [Problem](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-loops-ii/java-loops-ii.java)
   - Java End-of-file | [Problem](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-end-of-file/java-of-file.java)
