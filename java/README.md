@@ -3,4 +3,17 @@
   - Java Stdin and Stdout I | [Problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-stdin-and-stdout/java-stdin-and-stdout.java)
   - Java If-Else | [Problem](https://www.hackerrank.com/challenges/java-if-else/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-if-else/java-if-else.java)
   - Java Stdin and Stdout II | [Problem](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-stdin-and-stdout-ii/java-stdin-and-stdout-ii.java)
-
+  - Java Output Formatting | [Problem](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-output-formatting-i/java-stdin-and-stdout-ii.java)
+  - Java Loops I | [Problem](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-loops-i/java-loops-i.java)
+  - Java Loops II | [Problem](https://www.hackerrank.com/challenges/java-loops-ii/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-loops-ii/java-loops-ii.java)
+  - Java Datatypes | [Problem](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-loops-ii/java-loops-ii.java)
+  - Java End-of-file | [Problem](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-end-of-file/java-of-file.java)
+  - Java Static Initializer Block | [Problem](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-static-initializer-block/java-static-initializer-block.java)
+  - Java Int to String | [Problem](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-int-to-string/java-int-to-string.java)
+  - Java Date and Time | [Problem](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-date-and-time/java-date-and-time.java.java)
+  - Java Currency Formatter | [Problem](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-currency-formatter/java-currency-formatter.java)
+- Strings
+  - Java Strings Introduction | [Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/strings/java-strings-introduction/java-strings-introduction.java)
+  - Java Substring | [Problem](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/strings/java-substring/java-substring.java)
+  - Java String Reverse | [Problem](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/strings/java-string-reverse/java-string-reverse.java)
+  - Java Anagrams | [Problem](https://www.hackerrank.com/challenges/java-anagrams/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/strings/java-anagrams/java-anagrams.java)
