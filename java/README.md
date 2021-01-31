@@ -10,10 +10,12 @@
   - Java End-of-file | [Problem](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-end-of-file/java-end-of-file.java)
   - Java Static Initializer Block | [Problem](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-static-initializer-block/java-static-initializer-block.java)
   - Java Int to String | [Problem](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-int-to-string/java-int-to-string.java)
-  - Java Date and Time | [Problem](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-date-and-time/java-date-and-time.java.java)
+  - Java Date and Time | [Problem](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-date-and-time/java-date-and-time.java)
   - Java Currency Formatter | [Problem](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/introduction/java-currency-formatter/java-currency-formatter.java)
 - Strings
   - Java Strings Introduction | [Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/strings/java-strings-introduction/java-strings-introduction.java)
   - Java Substring | [Problem](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/strings/java-substring/java-substring.java)
   - Java String Reverse | [Problem](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/strings/java-string-reverse/java-string-reverse.java)
   - Java Anagrams | [Problem](https://www.hackerrank.com/challenges/java-anagrams/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/strings/java-anagrams/java-anagrams.java)
+- BigNumber
+  - Java BigInteger | [Problem](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/bignumber/java-biginteger/java-biginteger.java)
