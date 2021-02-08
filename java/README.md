@@ -19,3 +19,5 @@
   - Java Anagrams | [Problem](https://www.hackerrank.com/challenges/java-anagrams/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/strings/java-anagrams/java-anagrams.java)
 - BigNumber
   - Java BigInteger | [Problem](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/bignumber/java-biginteger/java-biginteger.java)
+- Data Structure
+  - Java 1D Array | [Problem](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/data-structure/java-1d-array/java-1d-array.java)
