@@ -21,3 +21,7 @@
   - Java BigInteger | [Problem](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/bignumber/java-biginteger/java-biginteger.java)
 - Data Structure
   - Java 1D Array | [Problem](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/data-structure/java-1d-array/java-1d-array.java)
+- Object Oriented Programming
+  - Java Inheritance I| [Problem](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/object-oriented-programming/java-inheritance-i/java-inheritance-i.java)
+  - Java Inheritance II| [Problem](https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/object-oriented-programming/java-inheritance-ii/java-inheritance-ii.java)
+  - Java Method Overriding| [Problem](https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true) | [Solution](https://github.com/PrasadHonrao/HackerRank/blob/master/java/object-oriented-programming/java-method-overrriding/java-method-overriding.java)
